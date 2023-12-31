@@ -40,7 +40,7 @@ The program is be capable of following functionalities:
 Simply run "Feedback.exe" executable file, and follow on-screen instructions.
 # App used for GUI
 THe application i chose to built my GUI is Qt. All the files i created in this app for GUI are uploaded along with the code. 
-Link from where i downloaded the application: https://www.qt.io/download
+Link from where i downloaded the application: [qt.io/download](https://www.qt.io/download)
 # GUI Pictures 
 ![1](https://github.com/Afnan4179/CurriculumFeedback/assets/155233153/15088068-3960-43c1-bec5-bdcd86107037)
 ![2](https://github.com/Afnan4179/CurriculumFeedback/assets/155233153/46a587ff-6e7f-4ff5-b876-bac322f88a55)
